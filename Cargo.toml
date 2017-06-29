@@ -1,0 +1,11 @@
+[package]
+name = "algolia"
+version = "0.1.0"
+authors = ["Rémy-Christophe Schermesser <git@schermesser.com>"]
+
+[dependencies]
+reqwest = "*"
+hyper = "*"
+serde = "*"
+serde_derive = "*"
+serde_json = "*"
